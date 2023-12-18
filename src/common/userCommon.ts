@@ -1,4 +1,4 @@
-export const defaultPicture = "https://img.qimuu.icu/typory/teamImg1.jpg"
+export const defaultPicture = "https://files.catbox.moe/mbjl2o.jpg"
 
 export const jsonParseTag = (usersList) => {
     usersList.forEach(user => {
